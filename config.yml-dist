@@ -1,0 +1,5 @@
+[mysql]
+user:
+password:
+host: # localhost
+backups_directory: # e.g. /data/backups/ or ./backups/
